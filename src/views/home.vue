@@ -1,9 +1,7 @@
 <template>
-  <default>
-    <div>
-      <h1>hello</h1>
-    </div>
-  </default>
+  <div>
+    <h1>hello</h1>
+  </div>
 </template>
 
 <script>
@@ -15,11 +13,7 @@ export default {
   name: 'Home',
   components: {Default},
   setup() {
-    return {
-      onSubmit() {
 
-      }
-    }
   },
 }
 </script>

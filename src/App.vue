@@ -1,8 +1,13 @@
 <template>
-  <router-view/>
+  <default>
+    <router-view/>
+  </default>
 </template>
-
 <script>
 
-export default {}
+import Default from "./layouts/default";
+
+export default {
+  components: {Default}
+}
 </script>

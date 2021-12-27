@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import mainHeader from "../components/mainHeader";
+import mainHeader from "../components/header/mainHeader";
 import {useRoute} from "vue-router";
 
 export default {
