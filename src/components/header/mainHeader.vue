@@ -30,9 +30,9 @@
           <i class="icofont-user-alt-7"/>
           <span>Đăng nhập</span>
         </button>
-        <button>
+        <el-button>
           <i class="icofont-cart-alt" style="font-size: 24px"/>
-        </button>
+        </el-button>
       </div>
     </div>
   </div>
